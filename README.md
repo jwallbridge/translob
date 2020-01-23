@@ -1,6 +1,6 @@
 # Code repository for TransLOB 
 
-This is the repository for the paper _Transformers for Limit Order Books_ which uses a CNN for feature extraction followed by a Transformer to predict future price movements from limit order book data.
+This is the repository for the paper _Transformers for Limit Order Books_ which uses a CNN for feature extraction followed by a Transformer to predict future price movements from limit order book data. This is research code and some assembly may be required.
 
 The code is in iPython notebooks, of the form simptrans_vN.ipynb where larger N means later :
 
