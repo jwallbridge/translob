@@ -1,6 +1,6 @@
 # Code repository for TransLOB 
 
-This is the repository for the paper ``Transformers for limit order books`` which uses a transformer architecture to predict future price movements and embeds this architecture into a reinforcement learning agent for optimal execution.
+This is the repository for the paper _Transformers for Limit Order Books_ which uses a CNN for feature extraction followed by a transformer to predict future price movements.
 
 The code is in iPython notebooks, of the form simptrans_vN.ipynb where larger N means later :
 
