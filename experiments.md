@@ -9,6 +9,31 @@ In reverse chronological order of completion time:
 
 * **2020-01-30** on colab  
 
+FI_2010_cnn3_colab.ipynb
+
+```
+model = Sequential()
+model.add(Conv2D(16, kernel_size=(1, 2),strides=(1,2),activation='relu')
+model.add(Conv2D(16, kernel_size=(4,1),strides=(1,1),activation='relu'))
+model.add(Conv2D(16, kernel_size=(4,1),strides=(1,1),activation='relu'))
+model.add(Conv2D(16, kernel_size=(1,2),strides=(1,2),activation='relu'))
+model.add(Conv2D(16, kernel_size=(4,1),strides=(1,1),activation='relu'))
+model.add(Conv2D(16, kernel_size=(4,1),strides=(1,1),activation='relu'))
+model.add(Conv2D(16,kernel_size=(1,10),strides=(1,1),activation='relu'))
+model.add(Conv2D(16, kernel_size=(4,1),strides=(1,1),activation='relu'))
+model.add(Conv2D(16, kernel_size=(4,1),strides=(1,1),activation='relu'))
+model.add(Flatten())
+model.add(Dense(100,kernel_regularizer=regularizers.l2(0.01),activation='relu'))
+model.add(Dropout(0.1))
+model.add(Dense(3,activation='softmax'))
+```
+
+epochs = 100  
+F1 test: 0.51              
+
+
+* **2020-01-30** on colab  
+
 FI_2010_cnn2_colab.ipynb
 
 ```
@@ -22,8 +47,8 @@ model.add(Dropout(0.50))
 model.add(Dense(3,activation='softmax'))
 ```
 
-epochs = 50  
-F1 test: 0.53              
+epochs = 100  
+F1 test: 0.51              
 
 
 * **2020-01-30** on colab  
