@@ -8,6 +8,7 @@
 In reverse chronological order of completion time:
 
 * **2020-01-30** on colab  
+
 FI_2010_cnn2_colab.ipynb
 
 ```
@@ -26,6 +27,7 @@ F1 test: 0.53
 
 
 * **2020-01-30** on colab  
+
 FI_2010_cnn.colab.ipynb
 
 ```
