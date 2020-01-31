@@ -26,8 +26,8 @@ model.add(Dense(3, activation='softmax'))
 ```
 
 epochs = 100  
-F1 test: 0.51    
-
+F1 test: 0.64    
+~3hrs on colab
 
 * **2020-01-30** on colab  
 
