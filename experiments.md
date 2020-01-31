@@ -25,6 +25,7 @@ model.add(Dropout(0.60))
 model.add(Dense(3, activation='softmax'))
 ```
 
+k=10
 epochs = 100  
 F1 test: 0.64    
 ~3hrs on colab
@@ -50,6 +51,7 @@ model.add(Dropout(0.1))
 model.add(Dense(3,activation='softmax'))
 ```
 
+k=10
 epochs = 100  
 F1 test: 0.51              
 
@@ -69,6 +71,7 @@ model.add(Dropout(0.50))
 model.add(Dense(3,activation='softmax'))
 ```
 
+k=10
 epochs = 100  
 F1 test: 0.51              
 
@@ -91,5 +94,6 @@ model.add(Dropout(0.50))
 model.add(Dense(3,activation='softmax'))
 ```
 
+k=10
 epochs = 50  
 F1 test: 0.53              
