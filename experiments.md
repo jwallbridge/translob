@@ -9,6 +9,25 @@ In reverse chronological order of completion time:
 
 * **2020-01-31** on colab  
 
+FI_2010_deeplob_colab.ipynb  
+
+```
+DeepLOB
+```
+
+k=10
+epochs = 100  
+colab disconnected after ~12 hours
+Results at epoch = 62 :  
+loss: 0.7536 - acc: 0.6581 - val_loss: 0.7710 - val_acc: 0.6601
+
+Results at epoch = 62 of cnn_LSTM :    
+loss: 0.7536 - acc: 0.6722 - val_loss: 0.8157 - val_acc: 0.6424  
+
+Still, it looks like DeepLOB will beat cnn_LSTM based on the training progress.
+
+* **2020-01-31** on colab  
+
 FI_2010_cnn_LSTM_colab.ipynb
 
 ```
