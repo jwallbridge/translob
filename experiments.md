@@ -17,7 +17,7 @@ DeepLOB
 
 k=10
 epochs = 100  
-colab disconnected after ~12 hours
+colab disconnected after ~12 hours  
 Results at epoch = 62 :  
 loss: 0.7536 - acc: 0.6581 - val_loss: 0.7710 - val_acc: 0.6601
 
