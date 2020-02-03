@@ -15,9 +15,9 @@ FI_2010_deeplob_redux.ipynb
 DeepLOB
 ```
 
-Continuation of DeepLOB after the previous disconnected at 62 epochs  
-epochs = 40 (so total ~100 epochs)  
-F1 test: 0.74   
+Continuation of DeepLOB after the previous disconnected at 62 epochs    
+epochs = 40 (so total ~100 epochs)    
+F1 test: 0.74     
   
 
 * **2020-01-31** on colab  
@@ -28,14 +28,13 @@ FI_2010_deeplob_colab.ipynb
 DeepLOB
 ```
 
-k=10
-epochs = 100  
-colab disconnected after ~12 hours  
-Results at epoch = 62 :  
-loss: 0.7536 - acc: 0.6581 - val_loss: 0.7710 - val_acc: 0.6601
+k=10    
+colab disconnected after ~12 hours    
+Results at epoch = 62 :    
+loss: 0.7536 - acc: 0.6581 - val_loss: 0.7710 - val_acc: 0.6601  
 
-Results at epoch = 62 of cnn_LSTM :    
-loss: 0.7536 - acc: 0.6722 - val_loss: 0.8157 - val_acc: 0.6424  
+Results at epoch = 62 of cnn_LSTM :      
+loss: 0.7536 - acc: 0.6722 - val_loss: 0.8157 - val_acc: 0.6424   
 
 * **2020-01-31** on colab  
 
