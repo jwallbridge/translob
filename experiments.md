@@ -12,7 +12,7 @@ In reverse chronological order of completion time:
 FI_2010_deeplob_redux.ipynb  
 
 ```
-DeepLOB
+DeepLOB (250)
 ```
 
 Continuation of DeepLOB after the previous disconnected at 62 epochs    
@@ -25,10 +25,10 @@ F1 test: 0.74
 FI_2010_deeplob_colab.ipynb  
 
 ```
-DeepLOB
+DeepLOB (250)
 ```
 
-k=10    
+k=10, batch_size = 250      
 colab disconnected after ~12 hours    
 Results at epoch = 62 :    
 loss: 0.7536 - acc: 0.6581 - val_loss: 0.7710 - val_acc: 0.6601  
