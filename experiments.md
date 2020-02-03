@@ -17,7 +17,7 @@ DeepLOB (250)
 
 Continuation of DeepLOB after the previous disconnected at 62 epochs    
 epochs = 40 (so total ~100 epochs)    
-F1 test: 0.74     
+F1 test:      
   
 
 * **2020-01-31** on colab  
