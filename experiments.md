@@ -55,7 +55,7 @@ model.add(Dense(3, activation='softmax'))
 
 k=10  
 epochs = 100  
-Total training time : ~3hrs
+Total training time : ~3hrs  
 F1 test: 0.64    
 
 * **2020-01-30** on colab  
