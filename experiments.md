@@ -13,6 +13,17 @@ TransLOB
 k=10  
 epochs = 125
 
+* **2020-02-00** on gcp 
+
+FI_2010_pretranslob_gcp.ipynb  
+
+```
+preTransLOB (no inception module)
+```
+
+k=10  
+epochs = 125
+
 * **2020-02-00** on gcp  
 
 FI_2010_deeplob_gcp.ipynb  
