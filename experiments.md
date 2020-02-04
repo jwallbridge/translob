@@ -1,6 +1,29 @@
 # Experiment logbook for FI-2010
 
-## In progress
+## Future 
+
+* **2020-02-00** on gcp 
+
+FI_2010_translob_gcp.ipynb  
+
+```
+TransLOB
+```
+
+k=10  
+epochs = 125
+
+* **2020-02-00** on gcp  
+
+FI_2010_deeplob_gcp.ipynb  
+
+```
+DeepLOB (32)
+```
+
+k=10  
+epochs = 125
+
 
 
 ## Completed
