@@ -44,6 +44,8 @@ In reverse chronological order of completion time:
 * **2020-02-03** on colab  
 
 FI_2010_deeplob_redux.ipynb  
+saved_model : 03022020-015756-e40.h5  
+Graph : events.out.tfevents.1580695078.f91ade03496a
 
 ```
 DeepLOB (250)
