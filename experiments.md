@@ -7,7 +7,7 @@
 FI_2010_translob_gcp.ipynb  
 
 ```
-TransLOB
+TransLOB (250)
 ```
 
 k=10  
@@ -15,10 +15,10 @@ epochs = 125
 
 * **2020-02-00** on gcp 
 
-FI_2010_pretranslob_gcp.ipynb  
+FI_2010_translob.ipynb  
 
 ```
-preTransLOB (no inception module)
+TransLOB (32)
 ```
 
 k=10  
