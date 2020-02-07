@@ -41,9 +41,26 @@ epochs = 125
 
 In reverse chronological order of completion time:
 
+* **2020-02-07** on colab  
+
+FI_2010_translob_colab_v1.ipynb (epochs = 100)    
+FI_2010_translob_redux_v1.ipynb (epochs = 50)  
+d_model = 16  
+num_heads = 3  
+num_blocks = 2  
+
+```
+TransLOB (250)
+```
+        
+epochs = 150            
+Training time : ~3hrs         
+F1 test: 0.89        
+
+
 * **2020-02-06** on colab  
 
-FI_2010_translob_v1.ipynb  
+FI_2010_translob_colab_v1.ipynb  
 d_model = 30  
 num_heads = 1  
 num_blocks = 1  
