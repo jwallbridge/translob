@@ -13,6 +13,7 @@ TransLOB (250)
 k=10  
 epochs = 125
 
+
 * **2020-02-00** on gcp 
 
 FI_2010_translob.ipynb  
@@ -43,8 +44,24 @@ In reverse chronological order of completion time:
 
 * **2020-02-07** on colab  
 
-FI_2010_translob_colab_v1.ipynb (epochs = 100)    
-FI_2010_translob_redux_v1.ipynb (epochs = 50)  
+FI_2010_translob_colab_v3.ipynb     
+d_model = 16  
+num_heads = 3  
+num_blocks = 2  
+
+```
+TransLOB (32)
+```
+        
+epochs = 150            
+Training time : ~6hrs         
+F1 test: 0.91        
+
+
+* **2020-02-07** on colab  
+
+FI_2010_translob_colab_v2.ipynb (epochs = 100)    
+FI_2010_translob_redux_v2.ipynb (epochs = 50)  
 d_model = 16  
 num_heads = 3  
 num_blocks = 2  
