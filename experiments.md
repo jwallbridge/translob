@@ -42,6 +42,19 @@ epochs = 125
 
 In reverse chronological order of completion time:
 
+* **2020-02-08** on colab  
+
+FI_2010_dilated_colab_32.ipynb     
+  
+```
+WNet (32)
+```
+        
+epochs = 150            
+Training time : ~5hrs         
+F1 test: 0.91        
+
+
 * **2020-02-07** on colab  
 
 FI_2010_translob_colab_v3.ipynb     
