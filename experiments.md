@@ -10,8 +10,8 @@ FI_2010_translob_gcp.ipynb
 TransLOB (250)
 ```
 
-k=10  
-epochs = 125
+k=10
+epochs = 150
 
 
 * **2020-02-00** on gcp 
@@ -23,7 +23,7 @@ TransLOB (32)
 ```
 
 k=10  
-epochs = 125
+epochs = 150
 
 * **2020-02-00** on gcp  
 
@@ -34,7 +34,20 @@ DeepLOB (32)
 ```
 
 k=10  
-epochs = 125
+epochs = 150
+
+
+* **2020-02-00** on gcp  
+
+FI_2010_LSTM_gcp.ipynb  
+
+```
+LSTM (32)
+```
+
+k=10  
+epochs = 150
+
 
 
 
