@@ -2,6 +2,10 @@
 
 This is the repository for the paper _Transformers for Limit Order Books_ which uses a CNN for feature extraction followed by a Transformer to predict future price movements from limit order book data. 
 
+Paper :  
+
+* ``TransLOB.pdf``.
+
 Python files added shortly :  
 
 * ``LobFeatures.py`` CNN and inception functions.
