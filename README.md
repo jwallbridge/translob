@@ -8,7 +8,7 @@ Paper :
 
 Python files added shortly :  
 
-* ``LobFeatures.py`` CNN and inception functions.
+* ``LobFeatures.py`` CNN function.
 * ``LobAttention.py`` self-attention function.
 * ``LobPosition.py`` positional encodings.
 * ``LobTransformer.py`` transformer function.
