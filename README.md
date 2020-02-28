@@ -9,7 +9,7 @@ Paper :
 Python files added shortly :  
 
 * ``LobFeatures.py`` CNN function.
-* ``LobAttention.py`` self-attention function.
+* ``LobAttention.py`` multi-head self-attention function.
 * ``LobPosition.py`` positional encodings.
 * ``LobTransformer.py`` transformer function.
 
