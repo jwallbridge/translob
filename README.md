@@ -6,9 +6,9 @@ Paper :
 
 * ``TransLOB.pdf``.
 
-Python files added shortly :  
+Python files added soon :  
 
-* ``LobFeatures.py`` CNN function.
+* ``LobFeatures.py`` causal convolutional function.
 * ``LobAttention.py`` multi-head self-attention function.
 * ``LobPosition.py`` positional encodings.
 * ``LobTransformer.py`` transformer function.
