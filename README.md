@@ -35,23 +35,23 @@ The training labels for prediction are as follows. Let a = 0.002. For percentage
 Convolutional output with position encoding.  
 
 <p align="center">
-<img src="https://github.com/jwallbridge/translob/blob/master/figures/conv1.png" width="75%" height="75%">
+<img src="https://github.com/jwallbridge/translob/blob/master/figures/conv1.png" width="50%" height="50%">
 </p>
 
 Attention distributions in head 1 in the first transformer block.  
 
 <p align="center">
-<img src="https://github.com/jwallbridge/translob/blob/master/figures/head1.png" width="75%" height="75%">
+<img src="https://github.com/jwallbridge/translob/blob/master/figures/block1head1.png" width="50%" height="50%">
 </p>
 
 Attention distributions in head 2 in the first transformer block.  
 
 <p align="center">
-<img src="https://github.com/jwallbridge/translob/blob/master/figures/head1.png" width="75%" height="75%">
+<img src="https://github.com/jwallbridge/translob/blob/master/figures/block1head2.png" width="50%" height="50%">
 </p>
 
 Attention distributions in head 3 of the first transformer block.  
 
 <p align="center">
-<img src="https://github.com/jwallbridge/translob/blob/master/figures/head1.png" width="75%" height="75%">
+<img src="https://github.com/jwallbridge/translob/blob/master/figures/block1head3.png" width="50%" height="50%">
 </p>
