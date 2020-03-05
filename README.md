@@ -32,6 +32,3 @@ The training labels for prediction are as follows. Let a = 0.002. For percentage
 
 # Attention visualization
 
-<p align="center">
-<img src="https://github.com/jwallbridge/translob/blob/master/figures/conv.pdf" width="75%" height="75%">
-</p>
