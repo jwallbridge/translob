@@ -35,7 +35,7 @@ The training labels for prediction are as follows. Let a = 0.002. For percentage
 Convolutional output with position encoding.  
 
 <p align="center">
-<img src="https://github.com/jwallbridge/translob/blob/master/figures/conv1.png" width="50%" height="50%">
+<img src="https://github.com/jwallbridge/translob/blob/master/figures/conv1.png" width="75%" height="75%">
 </p>
 
 Attention distributions in head 1 in the first transformer block.  
