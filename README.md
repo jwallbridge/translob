@@ -6,16 +6,12 @@ Paper :
 
 * ``TransLOB.pdf``.
 
-Python files added soon :  
+Python files :  
 
 * ``LobFeatures.py`` causal convolutional function.
 * ``LobAttention.py`` multi-head self-attention function.
 * ``LobPosition.py`` positional encodings.
 * ``LobTransformer.py`` transformer function.
-
-The code is in iPython notebooks :
-
-* ``translob.ipynb`` uses the FI-2010 environment with CNN + Transformer (run on Colab and GCP). 
 
 This is research code and some assembly may be required.
 
